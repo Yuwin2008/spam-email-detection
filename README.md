@@ -168,7 +168,7 @@ spam-email-detection/
 
 ## ☁️ Ham Word Cloud
 
-![Ham Word Cloud](images/ham_wordcloud.png)
+![Ham Word Cloud](images/ham_worldcloud.png)
 
 ---
 
