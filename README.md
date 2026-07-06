@@ -139,7 +139,7 @@ spam-email-detection/
 │     ham_words.png
 │     confusion_matrix.png
 │     roc_curve.png
-│     svm_feature_importance.png
+│     feature_importance.png
 │
 ├── models/
 │     linear_svm_spam_classifier.pkl
@@ -156,49 +156,49 @@ spam-email-detection/
 
 ## 📊 Class Distribution
 
-![](images/class_distribution.png)
+![Class Distribution](images/class_distribution.png)
 
 ---
 
 ## ☁️ Spam Word Cloud
 
-![](images/spam_wordcloud.png)
+![Spam Word Cloud](images/spam_wordcloud.png)
 
 ---
 
 ## ☁️ Ham Word Cloud
 
-![](images/ham_wordcloud.png)
+![Ham Word Cloud](images/ham_wordcloud.png)
 
 ---
 
 ## 📈 Most Frequent Spam Words
 
-![](images/spam_words.png)
+![Most Frequent Spam Words](images/spam_words.png)
 
 ---
 
 ## 📉 Most Frequent Ham Words
 
-![](images/ham_words.png)
+![Most Frequent Ham Words](images/ham_words.png)
 
 ---
 
 ## 🔲 Confusion Matrix
 
-![](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
 ## 📈 ROC Curve
 
-![](images/roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 ---
 
 ## 🔍 Most Important Spam Features
 
-![](images/svm_feature_importance.png)
+![Most Important Spam Features](images/feature_importance.png)
 
 ---
 
